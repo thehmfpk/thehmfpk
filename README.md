@@ -21,16 +21,17 @@ I am a **Software Engineering enthusiast** focused on delivering high-impact, sc
 
 I specialize in integrating artificial intelligence and software engineering principles to:
 
-🤖 Build intelligent automation agents & AI-driven systems
-💬 Develop conversational AI chatbots and assistants
-📊 Create data-driven user experiences & analytics dashboards
-⚡ Optimize workflows using automation platforms (n8n, AI agents)
-🌐 Develop scalable full-stack web applications (MERN)
-🧪 Apply Software Quality Engineering (SQA) for reliable systems
-🏗️ Design robust software architectures & modular systems
-🔄 Engineer maintainable, testable, and production-ready software
-📈 Transform business processes through intelligent automation
-🎯 Deliver end-to-end digital products from concept to deployment 
+- Build intelligent automation agents and AI-driven systems  
+- Develop conversational AI chatbots and assistants  
+- Create data-driven user experiences and analytics dashboards  
+- Optimize workflows using automation platforms (n8n, AI agents)  
+- Develop scalable full-stack web applications (MERN)  
+- Apply Software Quality Engineering (SQA) for reliable systems  
+- Design robust software architectures and modular systems  
+- Engineer maintainable, testable, and production-ready software  
+- Transform business processes through intelligent automation  
+- Deliver end-to-end digital products from concept to deployment  
+
 My approach combines **clean code, modern design, and measurable outcomes**.
 
 ---
