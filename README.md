@@ -1,122 +1,77 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:6366f1&height=220&section=header&text=Hafiz%20M%20Faizan&fontSize=50&fontAlignY=35&animation=fadeIn&fontColor=ffffff"/>
-</p>
+# ⚡ Hello, I'm Hafiz Muhammad Faizan (thehmfpk)
+### Software Engineer | AI Automation Specialist | Full-Stack Developer
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Software%20Engineer-0ea5e9?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/AI%20%26%20Automation-6366f1?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Full%20Stack%20Developer-3b82f6?style=for-the-badge" />
+  <img src="https://capsule-render.vercel.app/render?type=waving&color=auto&height=200&section=header&text=thehmfpk&fontSize=90" width="100%" />
 </p>
 
-<h2 align="center">🚀 Building the Future with Intelligent Systems & Scalable Code</h2>
+## 🔭 About Me
+I am a **Software Engineering enthusiast** focused on delivering high-impact, scalable digital solutions. I specialize in integrating **Artificial Intelligence** to build intelligent systems, optimize workflows, and create data-driven user experiences. 
 
-<p align="center">
-  Welcome to my digital workshop! I specialize in bridging the gap between <b>Human Experience</b> and <b>Machine Intelligence</b>.
-</p>
+- 🌱 **Currently exploring:** Advanced AI Agent Orchestration & 3D Generative AI.
+- 💼 **Focus:** Frontend Dev, WordPress, UI/UX, and n8n Workflow Automation.
+- 🎯 **Goal:** Advocating for AI adoption to support a future-ready technology ecosystem.
+- 📫 **Contact:** thehmfpk@gmail.com
 
 ---
 
-### 📑 Table of Contents
-- [🔭 About Me](#-about-me)
-- [🛠️ Tech Stack](#️-tech-stack)
-- [📜 Professional Certifications](#-professional-certifications)
-- [🚀 Featured Projects](#-featured-projects)
-- [📊 GitHub Analytics](#-github-analytics)
-- [📫 Let's Connect](#-lets-connect)
-
----
-
-### 🔭 About Me
-
-I am a **Software Engineering enthusiast** focused on delivering high-impact, scalable digital solutions. I specialize in integrating AI to optimize workflows and create seamless user experiences.
-
-- 🤖 **AI-First:** Building intelligent automation agents and chatbots.
-- 🌐 **Web Excellence:** Full-stack development with a focus on React & Node.js.
-- 🎨 **UX-Driven:** Designing products that are as functional as they are beautiful.
-- ⚡ **Efficiency:** Automating the mundane to focus on the monumental.
-
----
-
-### 🛠️ Tech Stack
-
+## 🛠 Tech Stack & Tools
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,js,react,nodejs,mongodb,html,css,express,wordpress,figma,git,github,vscode,azure,postman" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <br>
+  <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />
+  <img src="https://img.shields.io/badge/n8n-FF6C37?style=for-the-badge&logo=n8n&logoColor=white" />
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
+  <img src="https://img.shields.io/badge/Adobe_Creative_Cloud-DA1F26?style=for-the-badge&logo=adobe-creative-cloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
 </p>
-
-**Expertise Areas:**
-- **Languages:** Python, JavaScript (ES6+), HTML5/CSS3
-- **Frameworks:** React.js, Node.js, Express
-- **AI & Automation:** n8n, LangChain, AI Agent Logic
-- **Cloud & Data:** Microsoft Azure, MongoDB, SQL
 
 ---
 
-### 📜 Professional Certifications
-I am committed to continuous learning. Here is a categorized list of my professional credentials:
-
-| Category | Certification Title | Provider |
+## 🚀 Featured Projects
+| Project | Description | Timeline |
 | :--- | :--- | :--- |
-| **Artificial Intelligence** | Google AI Essentials | Google |
-| | AI for Business Professionals | HP LIFE |
-| | AI for Beginners | HP LIFE |
-| **Data & Cloud** | Azure Data Fundamentals: Core Data Concepts | Microsoft |
-| | Azure Data Fundamentals: Relational Data | Microsoft |
-| | Azure Data Fundamentals: Analytics | Microsoft |
-| **Development** | React JS for Web Development | Alison |
-| | HTML, CSS, and JavaScript for Web Developers | Coursera |
-| | JavaScript and Ajax: Building Web Applications | Coursera |
-| | WordPress Masterclass | Alison |
-| **Design & Marketing** | Foundations of User Experience (UX) Design | Google |
-| | Foundations of Digital Marketing & E-commerce | Google |
-| | Marketing Benefits vs. Features | HP LIFE |
-| **Management** | Foundations of Project Management | Google |
-| | Agile Project Management | HP LIFE |
-| | Effective Leadership | HP LIFE |
+| **🤖 Image-to-3D Converter** | AI-powered agent for automated 3D model generation. | Feb 2026 |
+| **📧 Bulk Email Automation** | Intelligent AI agent for personalized marketing at scale. | Jan 2026 |
+| **💬 WhatsApp Chatbot** | Conversational AI agent for automated customer engagement. | Dec 2025 |
+| **🔍 Website Uptime Checker** | AI monitoring and alerting agent for web infrastructure. | Jan 2026 |
+| **💼 Business Nexus** | Platform connecting entrepreneurs and investors. | May 2024 |
+| **☁️ Weatherly** | Real-time weather analytics dashboard. | July 2025 |
 
 ---
 
-### 🚀 Featured Projects
-
-#### 🤖 AI & Automation
-- **AI Email Automation Agent** – Intelligent triage and response system.
-- **WhatsApp AI Chatbot** – Customer engagement powered by LLMs.
-- **Image → 3D Model Converter** – Leveraging computer vision for 3D assets.
-
-#### 🌐 Web Applications
-- **EventNest** – A high-performance Event Management Platform.
-- **Business Nexus** – Dedicated platform for Investor Networking.
-- **HMFSocial** – Feature-rich Social Media application.
+## 🎓 Certifications
+- **Microsoft:** Azure Data Fundamentals (Core, Relational, Analytics)
+- **Google:** AI Essentials, Digital Marketing & E-commerce, Project Management
+- **Coursera:** React JS, JavaScript & Ajax, HTML/CSS/JS for Web Dev
+- **HP LIFE:** AI for Business, Agile PM, Effective Leadership
 
 ---
 
-### 📊 GitHub Analytics
-
+## 🕹️ Activity Graph
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=thehmfpk&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=thehmfpk&theme=tokyonight&hide_border=true" width="48%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=thehmfpk&theme=react-dark&bg_color=0d1117&hide_border=true" width="100%" />
 </p>
 
+### 🐍 Contribution Snake
+*(This snake eats my contributions!)*
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=thehmfpk&theme=tokyo-night&area=true" width="100%"/>
+  <img src="https://github.com/thehmfpk/thehmfpk/blob/output/github-contribution-grid-snake.svg" alt="snake" width="100%" />
 </p>
 
 ---
 
-### 📫 Let's Connect
-
-<p align="left">
-  <a href="mailto:thehmfpk@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://linkedin.com/in/hafizmfaizan">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://github.com/thehmfpk">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
+## 🔗 Connect With Me
+<p align="center">
+<a href="https://linkedin.com/in/hafizmfaizan"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:thehmfpk@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://github.com/thehmfpk"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
 <p align="center">
-  <br />
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,100:0ea5e9&height=100&section=footer"/>
+  <img src="https://komarev.com/ghpvc/?username=thehmfpk&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
