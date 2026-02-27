@@ -108,6 +108,8 @@ My approach combines **clean code, modern design, and measurable outcomes**.
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=thehmfpk&theme=tokyonight&hide_border=true"/>
 </p>
 
+![Snake Animation](https://raw.githubusercontent.com/thehmfpk/thehmfpk/output/github-contribution-grid-snake2-dark.svg)
+
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=thehmfpk&theme=tokyo-night"/>
 </p>
