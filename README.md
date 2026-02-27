@@ -101,14 +101,16 @@ My approach combines **clean code, modern design, and measurable outcomes**.
 # 📊 GitHub Activity
 
 <p align="center">
+  <img src="https://raw.githubusercontent.com/thehmfpk/thehmfpk/output/github-contribution-grid-snake-dark.svg" alt="Snake Game" />
+</p>
+
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=thehmfpk&show_icons=true&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=thehmfpk&theme=tokyonight&hide_border=true"/>
 </p>
-
-![Snake Animation](https://raw.githubusercontent.com/thehmfpk/thehmfpk/output/github-contribution-grid-snake2-dark.svg)
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=thehmfpk&theme=tokyo-night"/>
