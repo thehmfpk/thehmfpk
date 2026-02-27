@@ -1,75 +1,113 @@
-<!-- Animated Header -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:6366f1&height=200&section=header&text=Hafiz%20M%20Faizan&fontSize=40&fontAlignY=35&animation=fadeIn&fontColor=ffffff"/>
-</p>
-
-<h2 align="center">🚀 Software Developer | AI & Automation Engineer</h2>
+<!-- HERO BANNER -->
 
 <p align="center">
-  Building intelligent systems, scalable web apps, and AI-powered automation solutions.
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=260&text=Hafiz%20M%20Faizan&fontSize=55&color=0:0f172a,50:0ea5e9,100:6366f1&stroke=ffffff&fontColor=ffffff&animation=twinkling"/>
+</p>
+
+<h1 align="center">⚡ AI • Full-Stack • Automation • Software Quality Engineer</h1>
+
+<p align="center">
+Designing intelligent systems, scalable platforms, and high-quality software experiences.
 </p>
 
 ---
 
-# 👨‍💻 About Me
+# 🧠 PROFESSIONAL PROFILE
 
-I am a **Software Engineering enthusiast** focused on delivering high-impact, scalable digital solutions.  
-My expertise includes **Web Development, UI/UX Design, AI Automation, and Intelligent Systems** for end-to-end product delivery.
+I am a **Software Developer & Software Quality Engineering enthusiast** specializing in building
+**AI-powered systems, automation platforms, and scalable web applications** with strong software architecture and quality principles.
 
-I specialize in integrating artificial intelligence to:
+My work integrates:
 
-- 🤖 Build intelligent automation agents  
-- 📊 Create data-driven user experiences  
-- ⚡ Optimize workflows & processes  
-- 🌐 Develop scalable full-stack applications  
+* 🤖 Artificial Intelligence & Agents
+* 🌐 Full-Stack Web Development
+* ⚙️ Workflow Automation
+* 🧪 Software Quality Engineering (SQA)
+* 🏗️ Software Design & Architecture
+* 📊 Data-driven UX systems
 
-My approach combines **clean code, modern design, and measurable outcomes**.
+I focus on delivering **robust, maintainable, and intelligent software products** from concept to deployment.
 
 ---
 
-# 🧠 Skills & Technologies
+# 🛠️ TECH STACK & TOOLS
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,js,react,nodejs,mongodb,html,css,wordpress,figma,git,github,vscode" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/n8n-Automation-EA4AAA?style=for-the-badge&logo=n8n&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AI%20Chatbot-Intelligent%20Agent-0ea5e9?style=for-the-badge&logo=dialogflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Software%20Quality-SQA-6366f1?style=for-the-badge&logo=testinglibrary&logoColor=white"/>
+</p>
+
+---
+
+# 🚀 ENGINEERING DOMAINS
+
+* Software Quality Engineering (SQA)
+* Software Design & Architecture
+* Software Construction & Development
+* AI Agent Engineering
+* Full-Stack MERN Systems
+* Automation Engineering
+
+---
+
+# 🤖 AI & AUTOMATION SYSTEMS
+
+* AI Personalized Email Automation Agent
+* WhatsApp Conversational Chatbot
+* Image → 3D Model AI Converter
+* Website Uptime Monitoring Agent
+
+---
+
+# 🌐 PLATFORMS & APPLICATIONS
+
+* EventNest — Event Management System
+* Job Tracker — Career Platform
+* HMFSocial — Social Network
+* E-commerce Full-Stack Store
+* Weatherly — Analytics Dashboard
+* Business Nexus — Investor Platform
+* TechCorp — Client Analytics System
+
+---
+
+# 📜 CERTIFICATIONS
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=python,js,react,nodejs,mongodb,html,css,wordpress,figma,git,github,vscode" />
+<img src="YOUR_CERTIFICATE_IMAGE_1" width="260"/>
+<img src="YOUR_CERTIFICATE_IMAGE_2" width="260"/>
+<img src="YOUR_CERTIFICATE_IMAGE_3" width="260"/>
+<img src="YOUR_CERTIFICATE_IMAGE_4" width="260"/>
 
 </p>
 
-**Core Skills**
+<p align="center">
 
-- Python Programming  
-- AI Agent Development  
-- Machine Learning Fundamentals  
-- MERN Stack Development  
-- Workflow Automation (n8n)  
-- UI/UX & Digital Design  
-- Analytical Problem Solving  
+<img src="YOUR_CERTIFICATE_IMAGE_5" width="260"/>
+<img src="YOUR_CERTIFICATE_IMAGE_6" width="260"/>
+<img src="YOUR_CERTIFICATE_IMAGE_7" width="260"/>
+<img src="YOUR_CERTIFICATE_IMAGE_8" width="260"/>
 
----
+</p>
 
-# 🚀 Featured Projects
+<p align="center">
 
-### 🤖 AI & Automation
-- AI Email Automation Agent  
-- WhatsApp AI Chatbot  
-- Image → 3D Model Converter  
-- Website Uptime Monitoring Agent  
+<img src="YOUR_CERTIFICATE_IMAGE_9" width="260"/>
+<img src="YOUR_CERTIFICATE_IMAGE_10" width="260"/>
+<img src="YOUR_CERTIFICATE_IMAGE_11" width="260"/>
+<img src="YOUR_CERTIFICATE_IMAGE_12" width="260"/>
 
-### 🌐 Web Applications
-- EventNest — Event Management Platform  
-- Job Tracker — Career Platform  
-- HMFSocial — Social Media App  
-- E-commerce Full-Stack Store  
-- Weatherly — Analytics Dashboard  
-
-### 💼 Platforms & Business
-- Business Nexus — Investor Network Platform  
-- TechCorp — Freelance Analytics Dashboard  
-- BetaBytez — Company Website  
+</p>
 
 ---
 
-# 📊 GitHub Activity
+# 📊 GITHUB INTELLIGENCE
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=thehmfpk&show_icons=true&theme=tokyonight&hide_border=true"/>
@@ -85,36 +123,25 @@ My approach combines **clean code, modern design, and measurable outcomes**.
 
 ---
 
-# 🎥 Development Animation
+# 🎥 ENGINEERING IN MOTION
 
 <p align="center">
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="500"/>
+  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="500"/>
 </p>
 
 ---
 
-# 📚 Certifications
+# 🎯 CURRENT FOCUS
 
-- Google AI Essentials  
-- Foundations of UX Design  
-- Azure Data Fundamentals  
-- React JS Development  
-- WordPress Masterclass  
-- Agile Project Management  
-- Digital Marketing & E-commerce  
+* AI Automation Platforms
+* Scalable Web Architectures
+* Intelligent Agents
+* Software Quality & Testing
+* MERN Systems
 
 ---
 
-# 🎯 Current Focus
-
-- AI Automation Systems  
-- Full-Stack MERN Applications  
-- Intelligent Agents  
-- Scalable Web Platforms  
-
----
-
-# 🤝 Connect With Me
+# 🤝 CONNECT
 
 <p align="center">
   <a href="mailto:thehmfpk@gmail.com">
@@ -131,5 +158,5 @@ My approach combines **clean code, modern design, and measurable outcomes**.
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,100:0ea5e9&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:6366f1,100:0ea5e9&section=footer"/>
 </p>
