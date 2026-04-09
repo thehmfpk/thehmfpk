@@ -9,7 +9,7 @@
   Building intelligent systems, scalable web apps, and AI-powered automation solutions.
 </p>
 <p align="center">
-  <a href="https://www.hafizmuhammadfaizan.site">
+  <a href="https://www.hafizmfaizan.site">
     <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-0ea5e9?style=for-the-badge&logo=google-chrome&logoColor=white"/>
   </a>
 </p>
