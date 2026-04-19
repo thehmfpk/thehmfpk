@@ -15,7 +15,7 @@
 </p>
 
 
-# 👨‍💻 About Me
+# About Me
 
 I am a **Software Engineering enthusiast** focused on delivering high-impact, scalable digital solutions. My expertise includes **Web Development, UI/UX Design, AI Automation, and Intelligent Systems** for end-to-end product delivery.
 
@@ -36,7 +36,7 @@ My approach combines **clean code, modern design, and measurable outcomes**.
 
 ---
 
-# 🧠 Skills & Technologies
+# Technologies
 
 <p align="center">
 
@@ -44,7 +44,7 @@ My approach combines **clean code, modern design, and measurable outcomes**.
 
 </p>
 
-# 🧠 Core Skills & Expertise
+# Core Skills & Expertise
 
 ## 🤖 AI & Software Engineering
 - Python Programming  
@@ -74,7 +74,7 @@ My approach combines **clean code, modern design, and measurable outcomes**.
 
 ---
 
-# 🚀 Featured Projects
+# Featured Projects
 
 ### 🤖 AI & Automation
 - AI Email Automation Agent  
@@ -98,7 +98,7 @@ My approach combines **clean code, modern design, and measurable outcomes**.
 
 ---
 
-# 📊 GitHub Activity
+# GitHub Activity
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/thehmfpk/thehmfpk/output/github-contribution-grid-snake-dark.svg" alt="Snake Game" />
@@ -114,7 +114,7 @@ My approach combines **clean code, modern design, and measurable outcomes**.
 
 ---
 
-# 🎥 Development Animation
+# Development Animation
 
 <p align="center">
   <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="500"/>
@@ -122,7 +122,7 @@ My approach combines **clean code, modern design, and measurable outcomes**.
 
 ---
 
-# 📚 Certifications
+# Certifications
 
 ## 🌐 Web Development
 - HTML, CSS, and JavaScript for Web Developers — *(Coursera)*  
@@ -152,7 +152,7 @@ My approach combines **clean code, modern design, and measurable outcomes**.
 
 ---
 
-# 🎯 Current Focus
+# Current Focus
 
 - AI Automation Systems  
 - Full-Stack MERN Applications  
@@ -161,7 +161,7 @@ My approach combines **clean code, modern design, and measurable outcomes**.
 
 ---
 
-# 🤝 Connect With Me
+# Connect With Me
 
 <p align="center">
   <a href="mailto:thehmfpk@gmail.com">
