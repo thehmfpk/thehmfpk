@@ -46,7 +46,7 @@ My approach combines **clean code, modern design, and measurable outcomes**.
 
 # Core Skills & Expertise
 
-## 🤖 AI & Software Engineering
+## AI & Software Engineering
 - Python Programming  
 - AI Agent Development  
 - Machine Learning Fundamentals  
@@ -54,18 +54,18 @@ My approach combines **clean code, modern design, and measurable outcomes**.
 - Software Design & Architecture  
 - Software Quality Engineering (SQA)  
 
-## 🌐 Full-Stack & Automation
+## Full-Stack & Automation
 - MERN Stack Development  
 - Web Application Development  
 - Workflow Automation (n8n)  
 - API Integration & System Automation  
 
-## 📊 Data, UX & Problem Solving
+## Data, UX & Problem Solving
 - Data-Driven User Experience Design  
 - Analytical & Computational Problem Solving  
 - Research-Based Technical Development  
 
-## 🎨 Creative & Digital Production
+## Creative & Digital Production
 - UI/UX & Visual Design  
 - Graphic Design (Adobe & Digital Tools)  
 - Visual Branding & Design Principles  
@@ -76,20 +76,20 @@ My approach combines **clean code, modern design, and measurable outcomes**.
 
 # Featured Projects
 
-### 🤖 AI & Automation
+### AI & Automation
 - AI Email Automation Agent  
 - WhatsApp AI Chatbot  
 - Image → 3D Model Converter  
 - Website Uptime Monitoring Agent  
 
-### 🌐 Web Applications
+### Web Applications
 - EventNest — Event Management Platform  
 - Job Tracker — Career Platform  
 - HMFSocial — Social Media App  
 - E-commerce Full-Stack Store  
 - Weatherly — Analytics Dashboard  
 
-### 💼 Platforms & Business
+### Platforms & Business
 - Business Nexus — Investor Network Platform  
 - TechCorp — Freelance Analytics Dashboard  
 - BetaBytez — Company Website
@@ -124,28 +124,28 @@ My approach combines **clean code, modern design, and measurable outcomes**.
 
 # Certifications
 
-## 🌐 Web Development
+## Web Development
 - HTML, CSS, and JavaScript for Web Developers — *(Coursera)*  
 - JavaScript and Ajax: Building Web Applications — *(Coursera)*  
 - React JS for Web Development — *(Alison)*  
 - WordPress Masterclass — *(Alison)*  
 
-## 🤖 Artificial Intelligence
+## Artificial Intelligence
 - AI for Beginners — *(HP LIFE)*  
 - AI for Business Professionals — *(HP LIFE)*  
 - Google AI Essentials — *(Google)*  
 
-## 📊 UX, Marketing & Product
+## UX, Marketing & Product
 - Foundations of User Experience (UX) Design — *(Google)*  
 - Foundations of Digital Marketing and E-commerce — *(Google)*  
 - Marketing Benefits vs. Features — *(HP LIFE)*  
 
-## 🧑‍💼 Project & Leadership
+## Project & Leadership
 - Foundations of Project Management — *(Google)*  
 - Agile Project Management — *(HP LIFE)*  
 - Effective Leadership — *(HP LIFE)*  
 
-## ☁️ Microsoft Azure Data Fundamentals
+## Microsoft Azure Data Fundamentals
 - Azure Data Fundamentals: Core Data Concepts — *(Microsoft)*  
 - Azure Data Fundamentals: Relational Data — *(Microsoft)*  
 - Azure Data Fundamentals: Analytics — *(Microsoft)*  
