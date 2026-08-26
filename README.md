@@ -108,8 +108,18 @@ My approach combines **clean code, modern design, and measurable outcomes**.
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=thehmfpk&theme=tokyonight&hide_border=true"/>
 </p> -->
 
-<p align="center">
+
+
+<!-- <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=thehmfpk&theme=tokyo-night"/>
+</p> -->
+
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=thehmfpk&theme=github-compact"
+    alt="Hey"
+    width="100%"
+  />
 </p>
 
 ---
