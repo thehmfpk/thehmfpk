@@ -110,17 +110,10 @@ My approach combines **clean code, modern design, and measurable outcomes**.
 
 
 
-<!-- <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=thehmfpk&theme=tokyo-night"/>
-</p> -->
-
 <p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=thehmfpk&theme=github-compact"
-    alt="Hey"
-    width="100%"
-  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=thehmfpk&theme=tokyo-night"/>
 </p>
+
 
 ---
 
